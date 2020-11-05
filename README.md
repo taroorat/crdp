@@ -1,10 +1,15 @@
 # crdp
+
+
+
 [![PyPI version](https://badge.fury.io/py/crdp.svg)](https://badge.fury.io/py/crdp)
 
 Cython implementation of Ramer-Douglas-Peucker algorithm.
 
 ## Usage
 ```
+python -m pip install --upgrade pip    # pip need above 20.3b1
+pip install cython
 pip install crdp
 ```
 
